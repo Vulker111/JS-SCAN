@@ -1,1 +1,26 @@
+# Directories to exclude
+exclude-dirs:
+  - SOMETHING
 
+# Files to exclude
+exclude-files:
+  - README.md
+  - .gitignore
+  - .pre-commit-config.yaml
+  - LICENSE
+
+# Add github urls
+community-templates:
+  - https://github.com/notnotnotveg/nuclei-custom-templates
+  - https://github.com/clarkvoss/Nuclei-Templates
+  - https://github.com/z3bd/nuclei-templates
+  - https://github.com/ree4pwn/my-nuclei-templates
+  - https://github.com/pentest-dev/Profesional-Nuclei-Templates
+  - https://github.com/sl4x0/NC-Templates
+  - https://github.com/UltimateSec/ultimaste-nuclei-templates
+  - https://github.com/SirBugs/Priv8-Nuclei-Templates
+  - https://github.com/h0tak88r/nuclei_templates
+  - https://github.com/Lu3ky13/Authorization-Nuclei-Templates
+  - https://github.com/bug-vs-me/WPML-XSS/WPML-XSS
+  - https://github.com/NoRed0x/nored0x-Nuclei-Templates
+  - https://github.com/ARPSyndicate/kenzer-templates
