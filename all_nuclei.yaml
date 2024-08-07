@@ -11,74 +11,15 @@ exclude-files:
 
 # Add github urls
 community-templates:
-  - https://github.com/0x727/ObserverWard
-  - https://github.com/0xAwali/Blind-SSRF
-  - https://github.com/0xAwali/Virtual-Host
-  - https://github.com/Elsfa7-110/mynuclei-templates
-  - https://github.com/ExpLangcn/NucleiTP
-  - https://github.com/Harish4948/Nuclei-Templates
-  - https://github.com/Hunt2behunter/nuclei-templates
-  - https://github.com/Jagomeiister/nuclei-templates
-  - https://github.com/JoshMorrison99/url-based-nuclei-templates
-  - https://github.com/Kaue-Navarro/Templates-kaue-nuclei
-  - https://github.com/KeepHowling/all_freaking_nuclei_templates
-  - https://github.com/Lopseg/nuclei-c-templates
   - https://github.com/Lu3ky13/Authorization-Nuclei-Templates
-  - https://github.com/Odayex/Random-Nuclei-Templates
-  - https://github.com/PedroF-369/nuclei_templates
-  - https://github.com/R-s0n/Custom_Vuln_Scan_Templates
-  - https://github.com/Saimonkabir/Nuclei-Templates
-  - https://github.com/Saptak9983/Nuclei-Template
-  - https://github.com/SirAppSec/nuclei-template-generator-log4j
-  - https://github.com/SirBugs/Priv8-Nuclei-Templates
-  - https://github.com/Str1am/my-nuclei-templates
-  - https://github.com/SumedhDawadi/Custom-Nuclei-Template
-  - https://github.com/System00-Security/backflow
-  - https://github.com/adampielak/nuclei-templates
-  - https://github.com/aels/CVE-2022-37042
-  - https://github.com/alexrydzak/rydzak-nuclei-templates
-  - https://github.com/ayadim/Nuclei-bug-hunter
-  - https://github.com/badboy-sft/badboy_17-Nuclei-Templates-Collection
-  - https://github.com/bhataasim1/PersonalTemplates
-  - https://github.com/binod235/nuclei-templates-and-reports
-  - https://github.com/blazeinfosec/nuclei-templates
-  - https://github.com/boobooHQ/private_templates
-  - https://github.com/brinhosa/brinhosa-nuclei-templates
-  - https://github.com/bug-vs-me/nuclei
-  - https://github.com/c-sh0/nuclei_templates
-  - https://github.com/cipher387/juicyinfo-nuclei-templates
-  - https://github.com/clarkvoss/Nuclei-Templates
-  - https://github.com/coldrainh/nuclei-ByMyself
-  - https://github.com/d3sca/Nuclei_Templates
-  - https://github.com/daffainfo/my-nuclei-templates
-  - https://github.com/geeknik/the-nuclei-templates
-  - https://github.com/glyptho/templatesallnuclei
-  - https://github.com/im403/nuclei-temp
-  - https://github.com/kh4sh3i/CVE-2022-23131
-  - https://github.com/luck-ying/Library-YAML-POC
-  - https://github.com/meme-lord/Custom-Nuclei-Templates
-  - https://github.com/projectdiscovery/nuclei-templates
-  - https://github.com/ptyspawnbinbash/template-enhancer
-  - https://github.com/rafaelcaria/Nuclei-Templates
-  - https://github.com/rafaelwdornelas/my-nuclei-templates
-  - https://github.com/rahulkadavil/nuclei-templates
-  - https://github.com/randomstr1ng/nuclei-sap-templates
-  - https://github.com/redteambrasil/nuclei-templates
+  - https://github.com/ARPSyndicate/kenzer-templates
   - https://github.com/sl4x0/NC-Templates
-  - https://github.com/tamimhasan404/Open-Source-Nuclei-Templates-Downloader
-  - https://github.com/toramanemre/apache-solr-log4j-CVE-2021-44228
-  - https://github.com/toramanemre/log4j-rce-detect-waf-bypass
-  - https://github.com/zer0yu/Open-PoC
-  - https://gist.github.com/0x240x23elu
-  - https://gist.github.com/ResistanceIsUseless/e46848f67706a8aa1205c9d2866bff31
-  - https://github.com/0XParthJ/Nuclei-Templates
-  - https://github.com/0x727/ObserverWard_0x727
-  - https://github.com/0xAwali/Virtual-Host
-  - https://github.com/0xKayala/Custom-Nuclei-Templates
-  - https://github.com/0xPugazh/my-nuclei-templates
-  - https://github.com/0xmaximus/final_freaking_nuclei_templates
-  - https://github.com/1in9e/my-nuclei-templates
-  - https://github.com/5cr1pt/templates
+  - https://github.com/NoRed0x/nored0x-Nuclei-Templates
+  - https://github.com/notnotnotveg/nuclei-custom-templates
+  - https://github.com/imhunterand/nuclei-custom-templates
+  - https://github.com/notnotnotveg/nuclei-custom-templates
   - https://github.com/Akokonunes/Private-Nuclei-Templates
-  - https://github.com/Elsfa7-110/mynuclei-templates
-
+  - https://github.com/SirBugs/Priv8-Nuclei-Templates
+  - https://github.com/Akokonunes/Private-Nuclei-Templates
+  - https://github.com/pentest-dev/Profesional-Nuclei-Templates
+  - https://github.com/UltimateSec/ultimaste-nuclei-templates
