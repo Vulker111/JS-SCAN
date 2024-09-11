@@ -13,8 +13,12 @@ requests:
       - "{{BaseURL}}/auth/jwt/register"
       - "{{BaseURL}}/auth-demo/register/classic"
       - "{{BaseURL}}/auth-demo/register/modern"
+    matchers-condition: and    
     matchers:
       - type: word
         part: body
         words: 
           - "register"
+      - type: status
+        status:
+          - 200
