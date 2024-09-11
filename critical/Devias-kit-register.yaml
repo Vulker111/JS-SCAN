@@ -12,7 +12,8 @@ requests:
     path:
       - "{{BaseURL}}/auth/jwt/register"
       - "{{BaseURL}}/auth-demo/register/classic"
-      - "{{BaseURL}}/auth-demo/register/modern"    
+      - "{{BaseURL}}/auth-demo/register/modern" 
+    redirects: false     
     matchers-condition: and    
     matchers:
       - type: word
