@@ -12,6 +12,6 @@ exclude-files:
 # Add github urls
 community-templates:
   - https://github.com/projectdiscovery/nuclei-templates
-  - https://github.com/Vulker111/temps
+  - https://github.com/Vulker111/critical
 
 
